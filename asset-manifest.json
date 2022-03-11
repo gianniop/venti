@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/venti/static/css/main.5bb905eb.css",
+    "main.js": "/venti/static/js/main.944963f2.js",
+    "static/js/787.b5aa1e73.chunk.js": "/venti/static/js/787.b5aa1e73.chunk.js",
+    "index.html": "/venti/index.html",
+    "main.5bb905eb.css.map": "/venti/static/css/main.5bb905eb.css.map",
+    "main.944963f2.js.map": "/venti/static/js/main.944963f2.js.map",
+    "787.b5aa1e73.chunk.js.map": "/venti/static/js/787.b5aa1e73.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5bb905eb.css",
+    "static/js/main.944963f2.js"
+  ]
+}
