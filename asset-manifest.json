@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/venti/static/css/main.60bc76f1.css",
-    "main.js": "/venti/static/js/main.d354aeed.js",
+    "main.css": "/venti/static/css/main.2b89d8d0.css",
+    "main.js": "/venti/static/js/main.d9600ab4.js",
     "static/js/787.b5aa1e73.chunk.js": "/venti/static/js/787.b5aa1e73.chunk.js",
     "index.html": "/venti/index.html",
-    "main.60bc76f1.css.map": "/venti/static/css/main.60bc76f1.css.map",
-    "main.d354aeed.js.map": "/venti/static/js/main.d354aeed.js.map",
+    "main.2b89d8d0.css.map": "/venti/static/css/main.2b89d8d0.css.map",
+    "main.d9600ab4.js.map": "/venti/static/js/main.d9600ab4.js.map",
     "787.b5aa1e73.chunk.js.map": "/venti/static/js/787.b5aa1e73.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.60bc76f1.css",
-    "static/js/main.d354aeed.js"
+    "static/css/main.2b89d8d0.css",
+    "static/js/main.d9600ab4.js"
   ]
 }
